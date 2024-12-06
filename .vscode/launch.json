@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "C#: day6 Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/day6/day6.csproj"
+        },
+        {
             "name": "C#: day5 Debug",
             "type": "dotnet",
             "request": "launch",
